@@ -1,3 +1,5 @@
+//Daire diliminin alanını hesaplamaya yarar.
+
 import java.util.Scanner;
 public class daire {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+//Temel hesap makinesi.
+
 import java.util.Scanner;
 public class hesapmakinesi {
     public static void main(String[] args) {

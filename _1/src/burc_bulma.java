@@ -1,3 +1,5 @@
+//girilen ay ve güne göre burcunuzu söyler.
+
 import java.util.Scanner;
 public class burc_bulma {
     public static void main(String[] args) {

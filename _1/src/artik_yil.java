@@ -1,3 +1,5 @@
+//Girilen yılın artık yıl olup olmadığını hesaplamaya yarar.
+
 import java.util.Scanner;
 
 public class artik_yil {

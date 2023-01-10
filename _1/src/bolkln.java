@@ -1,4 +1,4 @@
-
+// girilen değere kadar olan sayılar içinden 3 ile 4 de ortak bölünenlerin toplamını bulur.
 import java.util.Scanner;
 public class bolkln {
     public static void main(String[] args) {

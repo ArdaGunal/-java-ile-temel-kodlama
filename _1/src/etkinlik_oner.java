@@ -1,3 +1,5 @@
+// Hava derecesine göre etkinlik önerir.
+
 import java.util.Scanner;
 public class etkinlik_oner {
     public static void main(String[] args){

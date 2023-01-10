@@ -1,3 +1,5 @@
+//sayı tahmin oyunu.(Daha da geliştireceğim)
+
 import java.util.Random;
 import java.util.Scanner;
 

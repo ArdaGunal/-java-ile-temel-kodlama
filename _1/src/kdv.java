@@ -1,3 +1,5 @@
+//Kdv bulmaya yarar.
+
 import java.util.Scanner;
 
 public class kdv{

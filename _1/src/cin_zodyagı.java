@@ -1,3 +1,5 @@
+//Girilen yıla göre Çin zodyağı burcunuzu söyler.
+
 import java.util.Scanner;
 
 public class cin_zodyagı {

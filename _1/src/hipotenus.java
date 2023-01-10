@@ -1,3 +1,5 @@
+//Hipotenüs hesaplamaya yarar.
+
 import java.util.Scanner;
 
 public class hipotenus {
