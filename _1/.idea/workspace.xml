@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90c3acd-9847-46e7-b1d2-b181ccaeaaad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/_1/artik_yil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/artik_yil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/daire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/daire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/etkinlik_oner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/etkinlik_oner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/hesapmakinesi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/hesapmakinesi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/hipotenus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/hipotenus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/kdv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/kdv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/oyun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/oyun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artik_yil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/artik_yil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bolkln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolkln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burc_bulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/burc_bulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cin_zodyagı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cin_zodyagı.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etkinlik_oner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etkinlik_oner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hesapmakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hesapmakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hipotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hipotenus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kdv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kdv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oyun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oyun.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HYWM8lXSawIyGiyP3SCWm8pHCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kodlamaj/_1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Deneme">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deneme" />
+      <module name="_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme" />
+      <module name="_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forwhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forwhile" />
+      <module name="_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kdv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kdv" />
+      <module name="_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Deneme" />
+        <item itemvalue="Application.forwhile" />
+        <item itemvalue="Application.kdv" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.deneme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90c3acd-9847-46e7-b1d2-b181ccaeaaad" name="Changes" comment="" />
+      <created>1668462449643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668462449643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
