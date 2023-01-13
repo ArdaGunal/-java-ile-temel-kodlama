@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90c3acd-9847-46e7-b1d2-b181ccaeaaad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/artik_yil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/artik_yil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/bolkln.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/bolkln.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/daire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/daire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/etkinlik_oner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/etkinlik_oner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/hesapmakinesi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/hesapmakinesi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/hipotenus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/hipotenus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/kdv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/kdv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/_1/oyun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/oyun.class" afterDir="false" />
-    </list>
+    <list default="true" id="d90c3acd-9847-46e7-b1d2-b181ccaeaaad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,6 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.vscode
+.idea
+.classpath
+_1.iml
+_1.eml
+out/production/_1
 
 
 # Package Files #
@@ -12,5 +18,5 @@
 *.tar.gz
 *.rar
 *.idea
-*.vscode
+
 
