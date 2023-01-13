@@ -1,8 +1,9 @@
 //Hipotenüs hesaplamaya yarar.
 
+import java.text.NumberFormat.Style;
 import java.util.Scanner;
 
-public class hipotenus {
+public class alan {
     public static void main(String[] args){
         //a^2+b^2=c^2 hesapla
         double akenari,bkenari,ckenari;
@@ -14,9 +15,13 @@ public class hipotenus {
         System.out.print("B kenarını giriniz ;");
         bkenari = veri1.nextDouble();
 
-        //hesaplama
-        ckenari=Math.sqrt(akenari*akenari+bkenari*bkenari);
-        System.out.println("hipotenüs :"+ckenari);
+        System.out.print("C kenarını giriniz  ;");
+        ckenari = veri1.nextDouble();
+         
+        double u =(akenari+bkenari+ckenari)/2;
+
+        double alan= Math.sqrt(u*(u-akenari)*(u-bkenari)*(u-ckenari));
+        System.out.println("Üçgenin alanı  ;"+alan);
     }
 
 }

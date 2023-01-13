@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90c3acd-9847-46e7-b1d2-b181ccaeaaad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/artik_yil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/artik_yil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_1/bolkln.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/bolkln.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/burc_bulma.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/cin_zodyagı.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/daire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/daire.class" afterDir="false" />
@@ -11,16 +13,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/_1/hipotenus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/hipotenus.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/kdv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/kdv.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/_1/oyun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_1/oyun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/artik_yil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/artik_yil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bolkln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolkln.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/burc_bulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/burc_bulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cin_zodyagı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cin_zodyagı.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etkinlik_oner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etkinlik_oner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hesapmakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hesapmakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hipotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hipotenus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kdv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kdv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oyun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oyun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
