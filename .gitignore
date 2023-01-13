@@ -1,13 +1,14 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-.vscode
-.idea
-.classpath
-_1.iml
-_1.eml
-out/production/_1
+# Compiled class file
+*.class
 
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -17,6 +18,7 @@ out/production/_1
 *.zip
 *.tar.gz
 *.rar
-*.idea
 
-
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
