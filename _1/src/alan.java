@@ -1,4 +1,4 @@
-//Hipotenüs hesaplamaya yarar.
+//Üçgende alan hesaplamaya yarar.
 
 import java.text.NumberFormat.Style;
 import java.util.Scanner;
