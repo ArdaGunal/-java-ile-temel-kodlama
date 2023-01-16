@@ -19,11 +19,5 @@ public class basamak_top {
         System.out.println(sum);
 
 
-
-
-
-
-
-
     }
 }
