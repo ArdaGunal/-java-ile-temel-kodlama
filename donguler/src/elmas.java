@@ -5,7 +5,7 @@ public class elmas {
 
         Scanner veri = new Scanner(System.in);
         int a;
-        String bosluk ="-";
+        String bosluk =" ";
         String sekil = "*";
 
 
