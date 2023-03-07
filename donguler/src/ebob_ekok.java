@@ -12,7 +12,7 @@ public class ebob_ekok {
         System.out.print("2. değeri giriniz :");
         int b =veri.nextInt();
 
-
+        //ebob hesaplama
 
    int i=1;
 
@@ -24,7 +24,6 @@ public class ebob_ekok {
 
 
         if(a%i ==0 && b%i==0){
-        System.out.println(d+". Bölen :"+i);
         d++;
         f=i;
         }
@@ -38,7 +37,22 @@ public class ebob_ekok {
        System.out.print("Pozitif değerler giriniz.");
    }
 
-        System.out.print("Ebob ;"+f);
+        System.out.println("Ebob :"+f);
+        i=1;
+
+
+    //ekok hesaplama
+
+
+     while (i<a*b){
+         i++;
+
+         if (i%a==0 && i%b==0){
+
+           break;
+         }
+     }System.out.println("ekok :"+i);
+
 
 
 
